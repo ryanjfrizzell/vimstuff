@@ -1,0 +1,6 @@
+[submodule "vim-buftabline"]
+	path = vim-buftabline
+	url = https://github.com/ap/vim-buftabline.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
