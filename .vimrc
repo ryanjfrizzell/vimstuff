@@ -7,7 +7,7 @@ set expandtab
 set nu
 set noswapfile
 set hidden
-colorscheme solarized
+colorscheme darkblue
 
 filetype plugin indent on
 syntax on
